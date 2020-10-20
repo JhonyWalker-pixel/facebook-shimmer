@@ -5,7 +5,7 @@
 
 ## :clipboard: About the project
 
-I was working on facebook and I came across a simple but very interesting effect, when scrolling the feed that loads constantly to remain infinite it has a brief animation of a brightness that sometimes loads so fast that you can't even notice it, however I decided to recreate this effect. Come see the [result](https://dribbble.com/)
+I was working on facebook and I came across a simple but very interesting effect, when scrolling the feed that loads constantly to remain infinite it has a brief animation of a brightness that sometimes loads so fast that you can't even notice it, however I decided to recreate this effect.
 
 ## :computer: Languages used
 
